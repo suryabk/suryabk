@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryabk&label=Profile%20views&color=0e75b6&style=flat" alt="suryabk" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 👨‍💻 I’m working as Front End Developer
+  
+- 🌱 I’m currently learning to be a Fullstack Developer
 
-- 👨‍💻 All of my projects are available at [suryabk.vercel.app](suryabk.vercel.app)
+- 📂 All of my projects are available at [suryabk.vercel.app](suryabk.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
