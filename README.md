@@ -28,42 +28,13 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-</div>
-
-###
-
 <h3 align="left">My Stats :</h3>
-<div align=center>
-     <picture>
-      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk&theme=dracula" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img align="right" width=300 src="https://github-readme-streak-stats.herokuapp.com?user=suryabk" />
-    </picture>
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&langs_count=8&layout=compact" />
-    </picture>
-</div>
-<div align=center>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&show_icons=true&locale=en&layout=compact" alt="suryabk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryabk&" alt="suryabk" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake.svg">
+</picture>
+
   
