@@ -48,8 +48,23 @@
 ###
 
 <h3 align="left">My Stats :</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=suryabk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/suryabk/suryabk/output/snake.svg" alt="Snake animation" />
+<div align=center>
+     <picture>
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=suryabk" />
+    </picture>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&langs_count=8&layout=compact" />
+    </picture>
 </div>
+<div align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" width="100%" src="https://raw.githubusercontent.com/suryabk/suryabk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+  
