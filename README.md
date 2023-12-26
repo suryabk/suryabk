@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Surya Bhakti Kusuma</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=28&pause=1000&color=ADBAC7&center=true&random=false&width=512&lines=Hi+%F0%9F%91%8B%2C+I'm+Surya+Bhakti+Kusuma" alt="Typing SVG">
+  </a>
+</h1>
+
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryabk&label=Profile%20views&color=0e75b6&style=flat" alt="suryabk" /> </p>
 
 - 👨‍💻 I’m working as Front End Developer
-  
 - 🌱 I’m currently learning to be a Fullstack Developer
-
 - 📂 All of my projects are available at [suryabk.vercel.app](suryabk.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
