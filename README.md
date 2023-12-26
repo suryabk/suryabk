@@ -52,12 +52,12 @@
      <picture>
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk&theme=dracula" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=suryabk" />
+      <img align="right" width=300 src="https://github-readme-streak-stats.herokuapp.com?user=suryabk" />
     </picture>
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&langs_count=8&layout=compact" />
+      <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&langs_count=8&layout=compact" />
     </picture>
 </div>
 <div align=center>
