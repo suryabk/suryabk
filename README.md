@@ -12,7 +12,7 @@
 
 - 👨‍💻 I’m working as Front End Developer
 - 🌱 I’m currently learning to be a Fullstack Developer
-- 📂 All of my projects are available at [suryabk.vercel.app](suryabk.vercel.app)
+- 📂 All of my projects are available at [suryabk.vercel.app](https://suryabk.vercel.app/)
 
 ###
 
