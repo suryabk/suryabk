@@ -49,8 +49,7 @@
 
 <h3 align="left">My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="125" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=suryabk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=suryabk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=suryabk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/suryabk/suryabk/output/snake.svg" alt="Snake animation" />
 </div>
