@@ -13,16 +13,16 @@
     </picture>
 </h1>
 
-
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 ###
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suryabk&label=Profile%20views&color=0e75b6&style=flat" alt="suryabk" /> </p>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=suryabk&label=Profile%20views&color=0e75b6&style=flat" alt="suryabk" />
+</div>
 
 ###
 
-<h3 align="left">🛠️ Languages and Tools :</h3>
 <div align="left">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo" />
@@ -36,7 +36,6 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
 <div align=center>
      <picture>
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk&theme=dracula" media="(prefers-color-scheme: dark)" />
