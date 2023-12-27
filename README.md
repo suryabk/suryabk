@@ -1,8 +1,18 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=28&pause=1000&color=ADBAC7&center=true&random=false&width=512&lines=Hi+%F0%9F%91%8B%2C+I'm+Surya+Bhakti+Kusuma" alt="Typing SVG">
-  </a>
+    <picture>
+      <!-- Dark theme image source -->
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=28&pause=1000&color=ADBAC7&center=true&random=false&width=512&lines=Hi+%F0%9F%91%8B%2C+I'm+Surya+Bhakti+Kusuma"
+      />
+      <!-- Light theme image source -->
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=28&pause=1000&color=000000&center=true&random=false&width=512&lines=Hi+%F0%9F%91%8B%2C+I'm+Surya+Bhakti+Kusuma"
+        alt="Typing SVG"
+      />
+    </picture>
 </h1>
+
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
