@@ -51,7 +51,7 @@
      <picture>
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk&theme=dracula" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=suryabk" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img align="right" width=300 src="https://github-readme-streak-stats.herokuapp.com?user=suryabk" />
+      <img align="top" width=300 src="https://github-readme-streak-stats.herokuapp.com?user=suryabk" />
     </picture>
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryabk&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
